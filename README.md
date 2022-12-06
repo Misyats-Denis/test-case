@@ -1,5 +1,8 @@
 # test-case
 
+Netlify: https://dashing-faun-acd979.netlify.app
+
+
 Создать локальную копию сайта (с помощью httrack либо же найти альтернативный способ выгрузить сайт)
 
 Очистить index.html от всех ненужных скриптов, которые не влияют на визуальную и динамическую структуру сайта (такие как facebook ads, google tag manager, yandex metrika и т.д.)
